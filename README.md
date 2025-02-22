@@ -10,20 +10,20 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-[x] A user should be able to view the current question and 4 different answers
-[x] A user should be able to view the next question after tapping on an answer
-[x] A user should be able to answer at least 3 different questions
+- [x] A user should be able to view the current question and 4 different answers
+- [x] A user should be able to view the next question after tapping on an answer
+- [x] A user should be able to answer at least 3 different questions
 
 The following **optional** functionality is completed:
 
-[x] A user should be able to properly use the app in the vertical orientation on any device size
-[x] A user should be able to track which question they're currently on and how much they have left
-[x] A user should be able to view how many questions they got correct after they've answered all the questions
-[x] A user should be able to restart the game after they've finished answering all questions
+- [x] A user should be able to properly use the app in the vertical orientation on any device size
+- [x] A user should be able to track which question they're currently on and how much they have left
+- [x] A user should be able to view how many questions they got correct after they've answered all the questions
+- [x] A user should be able to restart the game after they've finished answering all questions
 
 ## Video Walkthrough
 
-https://youtu.be/xABEFj_dBZg
+https://youtube.com/shorts/Qmb8U8Kxz_U
 
 ## Notes
 
